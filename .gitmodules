@@ -1,0 +1,3 @@
+[submodule "submodule_task_contrib"]
+	path = submodule_task_contrib
+	url = https://github.com/matveevi/submodule_task_contrib.git
