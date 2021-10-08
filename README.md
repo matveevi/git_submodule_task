@@ -22,8 +22,8 @@ $ git push origin main
 $ cd ../
 $ git init
 $ git remote add origin https://github.com/matveevi/git_submodule_task.git
-$ git branch -M main
+$ git branch -M master
 $ git submodule add https://github.com/matveevi/submodule_task_contrib.git
 $ git commit -am "add_contrib_module"
-$ git push origin main
+$ git push origin master
 ```
